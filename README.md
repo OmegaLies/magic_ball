@@ -5,4 +5,4 @@
 
 Программа написана на Ruby, для запуска программы используйте:
 
-ruby magic_ball.rb
+`ruby magic_ball.rb`
